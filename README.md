@@ -26,14 +26,14 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Requrement
+## Requirement
 
 - Python 3.11.8
 - PostgresSQL
 - Node 20.12.2
 
 - Odoo 17
-  - Sales Module
+  - Sales 
   - Invoicing
   - Website
   - Inventory
